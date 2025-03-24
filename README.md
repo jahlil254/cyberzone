@@ -12,7 +12,7 @@ CyberZone is a e-commerce web application built with PHP and MySQL, designed for
 - Manage Users
 - View customer messages
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies Used  
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
