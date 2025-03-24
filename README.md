@@ -1,4 +1,4 @@
-# Ecommerce-Website
+# 🛒 Ecommerce-Website
 CyberZone is a e-commerce web application built with PHP and MySQL, designed for selling electronics such as laptops, smartphones, and accessories. It features a user-friendly interface for customers and a comprehensive admin dashboard for managing products, orders, and user accounts allowing complete control over the storefront.
 
 ## 🌐 Frontend
@@ -13,7 +13,7 @@ CyberZone is a e-commerce web application built with PHP and MySQL, designed for
 - **Manage Orders** — View customer orders and update order status
 - **View Message** — View user messages
 
-## 🛠️ Technologies Used  
+## 🛠️ Languages Used 
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
@@ -32,9 +32,6 @@ CyberZone is a e-commerce web application built with PHP and MySQL, designed for
     Import `cyberzone.sql` into your MySQL server
     Create a database named `cyberzone`
 
-3. Start XAMPP
-
-4. Visit:
-   ```sh
+3. Start XAMPP and visit:
+    ```sh
    http://localhost/CyberZone/index.php
-
