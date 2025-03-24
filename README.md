@@ -1,5 +1,5 @@
 # 🛒 Ecommerce-Website
-CyberZone is a e-commerce web application built with PHP and MySQL, designed for selling electronics such as laptops, smartphones, and accessories. It features a user-friendly interface for customers and a comprehensive admin dashboard for managing products, orders, and user accounts allowing complete control over the storefront.
+CyberZone is a e-commerce web application designed for selling electronics such as laptops, smartphones, and accessories. It features a user-friendly interface for customers and a comprehensive admin dashboard for managing products, orders, and user accounts allowing complete control over the storefront.
 
 ## 🌐 Frontend
 - **Responsive UI** — Clean and responsive layout for desktop and mobile
@@ -19,6 +19,9 @@ CyberZone is a e-commerce web application built with PHP and MySQL, designed for
 - **Backend**: PHP
 - **Database**: MySQL
 - **Local Server**: XAMPP
+
+## 🚀 Live Demo  
+🔗 [Visit the CyberZone Store](http://cyberzone.byethost33.com)
 
 
 ## 💻 Local Development  
